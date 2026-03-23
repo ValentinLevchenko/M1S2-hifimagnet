@@ -9,10 +9,13 @@ Statistical characterisation and exploratory data analysis (EDA) of magnet opera
 
 ## Milestones
 
-[ ] Project setup
-[ ] Data exploration and pre-processing
-[ ] Exploratory data analysis
-[ ] Linking data with physical models
-[ ] Results visualisation and interpretation
-[ ] Future works and perspectives
-[ ] Final report and presentation
+### Version 0
+- [ ] Project setup
+- [ ] Data understanding and pre-processing
+### Version 1
+- [ ] Exploratory data analysis
+- [ ] Linking data with physical models
+- [ ] Results visualisation and interpretation
+### Version 2
+- [ ] Future works and perspectives
+- [ ] Final report and presentation
